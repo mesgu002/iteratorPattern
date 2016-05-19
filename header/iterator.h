@@ -1,7 +1,9 @@
 #ifndef ITERATOR_H
 #define ITERATOR_H
 
-template <typename T>
+using namespace std;
+
+template <class Item>
 class Iterator
 {
 	public:
